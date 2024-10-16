@@ -1,3 +1,4 @@
+# Remediate mDNS script by Kym Busby
 # Path to the registry key
 $registryPath = "HKLM:\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters"
 # Name of the registry value
